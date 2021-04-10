@@ -7,7 +7,7 @@ Neural Style Transfer (NST) is one of the most fun techniques in deep learning. 
 The generated image G combines the "content" of the image C with the "style" of image S. 
 
 In this example, we are going to generate an image of the Louvre museum in Paris (content image C), mixed with a painting by Claude Monet, a leader of the impressionist movement (style image S).
-<img src="images/louvre_generated.png" style="width:750px;height:200px;">
+<img src="Neural Style Transfer/images/louvre_generated.png" style="width:750px;height:200px;">
 
 
 
