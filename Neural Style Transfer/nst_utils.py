@@ -1,4 +1,4 @@
-### Part of this code is due to the MatConvNet team and is used to load the parameters of the pretrained VGG19 model in the notebook ###
+
 
 import os
 import sys
